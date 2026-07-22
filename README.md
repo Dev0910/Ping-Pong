@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/Sprites/background2.jpg" alt="Colorful ping-pong artwork used by the main menu scene" width="100%">
+</p>
+
 <h1 align="center">Ping Pong</h1>
 
 <p align="center">
@@ -17,6 +21,21 @@ Ping Pong is a 2D arcade game where one player rallies against a computer-contro
 Each successful return adds one point. Sending the ball past the computer adds ten points and starts another serve; missing the ball ends the run and saves the score to the leaderboard for the selected difficulty.
 
 This repository contains the Unity source project. It does not include a packaged, ready-to-run player build.
+
+## Project Art
+
+These title assets are used by the Unity menu and leaderboard scenes; they are project artwork rather than gameplay captures.
+
+<table>
+  <tr>
+    <td width="50%"><img src="Assets/Sprites/Ping%20Pong%20Title.jpg" alt="Ping Pong title artwork used in the main menu"></td>
+    <td width="50%"><img src="Assets/Sprites/Leader%20Board.png" alt="Leaderboard title artwork used in the leaderboard scene"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Main menu title</sub></td>
+    <td align="center"><sub>Leaderboard title</sub></td>
+  </tr>
+</table>
 
 ## Highlights
 
