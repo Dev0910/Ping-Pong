@@ -1,0 +1,20 @@
+{
+  "playerData": [
+    {
+      "PlayerName": "Dev",
+      "score": "10"
+    },
+    {
+      "PlayerName": "Yash",
+      "score": "50"
+    },
+    {
+      "PlayerName": "Dev",
+      "score": "14"
+    },
+    {
+      "PlayerName": "Dev1",
+      "score": "10"
+    }
+  ]
+}
