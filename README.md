@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Sprites/background2.jpg" alt="Colorful ping-pong artwork used by the main menu scene" width="100%">
+  <img src="docs/media/ping-pong-icon.webp" alt="Red and blue paddles striking a ping-pong ball" width="180">
 </p>
 
 <h1 align="center">Ping Pong</h1>
